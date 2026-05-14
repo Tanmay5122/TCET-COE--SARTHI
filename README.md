@@ -490,13 +490,13 @@ docker compose logs postgres
 
 - **Developer:** Tanmay
 - **Started:** 2026-05-14
-- **Maintained by:** TCET Development Team
+- **Maintained by:** TCET COE Research and Development Team
 
 ---
 
 ## LICENSE
 
-MIT License - Free for educational use
+TCET License - Free for educational use
 
 ---
 
