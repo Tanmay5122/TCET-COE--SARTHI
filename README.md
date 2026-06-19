@@ -190,7 +190,7 @@ What programs are currently running?
 ## 🛠 Local Setup
 
 ```bash
-git clone https://github.com/Tanmay5122/tcet-sarthi.git
+git clone https://github.com/Tanmay5122/TCET-COE--SARTHI.git
 
 cd tcet-sarthi
 
